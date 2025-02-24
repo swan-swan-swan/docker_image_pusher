@@ -1,1 +1,1 @@
-kindest/node:v1.24.15
+docker.io/cfssl/cfssl:latest
