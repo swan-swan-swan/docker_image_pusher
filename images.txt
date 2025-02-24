@@ -1,1 +1,1 @@
-docker.io/cfssl/cfssl:latest
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.1
